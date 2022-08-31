@@ -22,3 +22,4 @@ produce a sentiment analysis data.
 
 This script uses Multinomial Naive Bayes algorithm to analyze and classify the positive and negative tweets about disaters.
 
+
